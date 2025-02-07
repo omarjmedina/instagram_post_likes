@@ -1,7 +1,7 @@
 # Instagram Likes Analysis
 
 ## Project Overview
-This project analyzed Instagram likes across different content categories to uncover engagement trends. Using Python (`pandas`, `seaborn`, `matplotlib`), we simulated, cleaned, visualized, and statistically analyzed the data to gain insights into content performance.
+This project analyzed Instagram likes across different content categories to uncover engagement trends. On this repository there is an uploaded **Jupyter Notebook file**, using Python (`pandas`, `seaborn`, `matplotlib`), we simulated, cleaned, visualized, and statistically analyzed the data to gain insights into content performance.
 
 ## Process & Challenges
 
