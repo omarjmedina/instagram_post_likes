@@ -19,7 +19,7 @@ Using Python (`pandas`, `seaborn`, `matplotlib`), we simulated, cleaned, visuali
 
 ### Statistical Analysis & Insights
 - The **average number of likes per post** was **~5000**.
-- **Food, Music, and Fitness** categories received the highest engagement, indicating users prefer these content types.
+- **Food, Fashion, and Fitness** categories received the highest engagement, indicating users prefer these content types.
 - **Travel and Culture** posts had lower engagement, suggesting they might require better captions, hashtags, or posting times to improve reach.
 
 ## What Sets This Project Apart?
