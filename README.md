@@ -15,13 +15,13 @@ Using Python (`pandas`, `seaborn`, `matplotlib`), we simulated, cleaned, visuali
 <img src="https://github.com/user-attachments/assets/3d03540f-c9d7-4b3c-928f-fc7f102d9a81" width="600">
 <img src="https://github.com/user-attachments/assets/d7520f4c-d44b-439a-86b9-8144526e6e2f" width="300">
   
-
-
-
 ### Data Visualization
 - 📊 **Histogram of Likes** revealed the overall engagement distribution across posts.
 - 📌 **Boxplot of Likes per Category** highlighted which content types received more likes.
 - Choosing the best visualization was a challenge, but testing different graphs helped identify the most informative ones.
+
+![image](https://github.com/user-attachments/assets/6a561ed3-e580-4344-8912-0ea62f03da49)
+
 
 ### Statistical Analysis & Insights
 - The **average number of likes per post** was **~5000**.
