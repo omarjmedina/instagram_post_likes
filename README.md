@@ -28,6 +28,9 @@ Using Python (`pandas`, `seaborn`, `matplotlib`), we simulated, cleaned, visuali
 - **Food, Fashion, and Fitness** categories received the highest engagement, indicating users prefer these content types.
 - **Travel and Culture** posts had lower engagement, suggesting they might require better captions, hashtags, or posting times to improve reach.
 
+![image](https://github.com/user-attachments/assets/73c40af6-b891-43bc-9c22-8b0ce7e1e2e2)
+
+
 ## What Sets This Project Apart?
 ✅ **Realistic Instagram Analytics Simulation**: The dataset structure mirrors real social media insights, making the analysis practical for businesses.  
 ✅ **Actionable Insights for Social Media Strategy**: Helps brands & influencers decide which content types to focus on.  
