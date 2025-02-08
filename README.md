@@ -20,8 +20,8 @@ Using Python (`pandas`, `seaborn`, `matplotlib`), we simulated, cleaned, visuali
 - 📌 **Boxplot of Likes per Category** highlighted which content types received more likes.
 - Choosing the best visualization was a challenge, but testing different graphs helped identify the most informative ones.
 
-<img src="https://github.com/user-attachments/assets/6a561ed3-e580-4344-8912-0ea62f03da49" width="500">
-<img src="https://github.com/user-attachments/assets/70cb0073-15a8-4e28-a785-b7d310d0373c" width="500">
+<img src="https://github.com/user-attachments/assets/6a561ed3-e580-4344-8912-0ea62f03da49" width="300">
+<img src="https://github.com/user-attachments/assets/70cb0073-15a8-4e28-a785-b7d310d0373c" width="300">
 
 ### Statistical Analysis & Insights
 - The **average number of likes per post** was **~5000**.
