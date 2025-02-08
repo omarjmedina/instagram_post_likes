@@ -13,7 +13,7 @@ Using Python (`pandas`, `seaborn`, `matplotlib`), we simulated, cleaned, visuali
 - Converted `Date` to `datetime` format and ensured `Likes` were integers, ensuring accuracy.
   
 <img src="https://github.com/user-attachments/assets/3d03540f-c9d7-4b3c-928f-fc7f102d9a81" width="400">
-<img src="https://github.com/user-attachments/assets/d7520f4c-d44b-439a-86b9-8144526e6e2f" width="100">
+<img src="https://github.com/user-attachments/assets/d7520f4c-d44b-439a-86b9-8144526e6e2f" width="200">
   
 ### Data Visualization
 - 📊 **Histogram of Likes** revealed the overall engagement distribution across posts.
