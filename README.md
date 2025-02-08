@@ -11,6 +11,9 @@ Using Python (`pandas`, `seaborn`, `matplotlib`), we simulated, cleaned, visuali
 - Created a dataset with **500 Instagram posts**, each assigned a category and a random number of likes.
 - Handled missing and duplicate values using `.dropna()` and `.drop_duplicates()`.
 - Converted `Date` to `datetime` format and ensured `Likes` were integers, ensuring accuracy.
+  
+  <img src="https://github.com/user-attachments/assets/3d03540f-c9d7-4b3c-928f-fc7f102d9a81" width="600">
+
 
 ### Data Visualization
 - 📊 **Histogram of Likes** revealed the overall engagement distribution across posts.
