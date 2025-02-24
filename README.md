@@ -55,7 +55,6 @@ df['Likes'] = df['Likes'].astype(int)
 ### Data Visualization
 - 📊 **Histogram of Likes** revealed the overall engagement distribution across posts.
 - 📌 **Boxplot of Likes per Category** highlighted which content types received more likes.
-- Choosing the best visualization was a challenge, but testing different graphs helped identify the most informative ones.
 
 ```python
 # Create histogram of Likes
